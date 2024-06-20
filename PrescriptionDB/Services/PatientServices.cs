@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using PrescriptionDB.Data;
-using PrescriptionDB.Model;
 using PrescriptionDB.Models;
 
 namespace PrescriptionDB.Services;

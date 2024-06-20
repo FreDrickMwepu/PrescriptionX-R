@@ -1,5 +1,4 @@
 using PrescriptionDB.Data;
-using PrescriptionDB.Model;
 using Microsoft.EntityFrameworkCore;
 using PrescriptionDB.Models;
 
